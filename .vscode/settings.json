@@ -1,0 +1,11 @@
+{
+    "git.ignoredRepositories": [
+        "/env/bin/"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.banditEnabled": false,
+    "python.linting.pylamaEnabled": true,
+    "python.pythonPath": "env/bin/python"
+}
